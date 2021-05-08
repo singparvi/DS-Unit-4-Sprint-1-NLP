@@ -91,6 +91,7 @@ env.bak/
 venv.bak/
 .idea/
 Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
+reviews_data.txt.gz
 
 # Spyder project settings
 .spyderproject
